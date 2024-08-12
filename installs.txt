@@ -1,0 +1,22 @@
+//Front end folder
+npx create-react-app frontend
+------------------------------------
+//Front end and dashboard folder
+npm i react-router-dom
+
+npm install @mui/material @emotion/react @emotion/styled
+
+npm install @mui/icons-material 
+------------------------------------
+//Backend folder
+npm init -y
+
+npm i -D nodemon
+
+npm i express body-parser cors dotenv mongoose passport passport-local passport-local-mongoose
+------------------------------------
+//Dashboard folder
+
+npm i axios
+
+npm install chart.js react-chartjs-2
